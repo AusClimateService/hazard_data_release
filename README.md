@@ -15,46 +15,50 @@ In terms of the colors:
 - :yellow_circle: The data exists for early / beta users to try
 - :white_circle: Not yet processed but we don't anticipate any problems/delays
 
-Last update: Mon 3 June 6:30am: Land mask applied to bias corrected AGCD output.
-
+Last update: Mon 3 June 6:30am: 
 
 
 
 | Hazard | PI  | GWL1.2 | GWL1.5  | GWL2.0 | GWL3.0 | GWL4.0| (Notes) |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Ocean (OFAM) **|     |        |         |        |        |       |         |
-| SST     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| MWH duration |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| MHW intensity|:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| surface pH     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| surface aragonite saturation state     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| ** Heat **|     |        |         |        |        |       |         |
-| EHT     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Fire **|     |        |         |        |        |       |         |
+| **Ocean (OFAM)**|     |        |         |        |        |       |         |
+| SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| MWH duration |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
+| MHW intensity|:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
+| surface pH monthly climatology   |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| surface aragonite saturation state monthly climatology |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| **Heat**|     |        |         |        |        |       |         |
+| Daily maximum surface air temperature (tasmax)   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| TXx (hottest day   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| TX90p    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| EHF number    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Fire**|     |        |         |        |        |       |         |
 | FFDI     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Extreme Prec. **|     |        |         |        |        |       |         |
-| EHT     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Tropical Cyclones **|     |        |         |        |        |       |         |
-| EHT     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** East Coast Lows **|     |        |         |        |        |       |         |
-| EHT     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Flood **|     |        |         |        |        |       |         |
-|      |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Drought **|     |        |         |        |        |       |         |
-| SPI     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Coastal Inundation **|     |        |         |        |        |       |         |
-| extreme water level     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** Coastal Erosion **|     |        |         |        |        |       |         |
+| **Extreme Prec.**|     |        |         |        |        |       |         |
+|Average Daily Rainfall    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+|RX1h (heaviest hourly total per year)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+|RX1D (heaviest daily total per year)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+|RX5D (heaviest 5 day total per year)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+|Number of days above specified thresholds  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Tropical Cyclones**|     |        |         |        |        |       |         |
+| Cyclone frequency |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Cyclone Intensity |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Extratropical Storms**|     |        |         |        |        |       |         |
+| Number of tracked surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Intensity of surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Riverine and Flash Flooding (NHP)**|     |        |         |        |        |       |         |
+|Runoff (RX1 - median annual max 1-day runoff)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Drought**|     |        |         |        |        |       |         |
+| SPI    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Drought duration    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Coastal Inundation**|     |        |         |        |        |       |         |
+| extreme water level(canute2)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Regional Sea Level Rise (CMIP6 projection)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Aggregation of flood days |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| 1 in 100 AEP inundation |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| **Coastal Erosion**|     |        |         |        |        |       |         |
 |     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
-| ** ?? **|     |        |         |        |        |       |         |
+| **Convective Storms**|     |        |         |        |        |       |         |
 |         |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
