@@ -10,13 +10,17 @@ The table below provides a summary of what data has been processed.
 
 The three dots (in order from first/top/left to last/bottom/right) represent:
 
-🟢 The data is available in its final official form
-🟡 The data exists for early / beta users to try
-⚪ Not yet processed but we don't anticipate any problems/delays
+In terms of the colors:
+- :green_circle: The data is available in its final official form
+- :yellow_circle: The data exists for early / beta users to try
+- :white_circle: Not yet processed but we don't anticipate any problems/delays
+
 Last update: Mon 3 June 6:30am: Land mask applied to bias corrected AGCD output.
 
 
+
 Hazard  GWL1.2  GWL1.5	(Notes)
-AGCD		🟢	🟢	🟢					
-BARRA-R2		🟢	🟢	🟢	🟢	🟢	🟢	🟢	
-ACCESS-CM2	BARPA-R	r4i1p1f1	🟢 🟡 ⚪	🟢 🟡 ⚪	🟢 🟡 ⚪	🟢 🟡 ⚪	🟢 🟡 ⚪	🟢 🟡 ⚪	🟢 🟡 ⚪	
+| Hazard | PI  | GWL1.2 | GWL1.5  | GWL2.0 | GWL3.0 | GWL4.0| (Notes) |
+| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
+|  Ocean |     |        |         |        |        |       |         |
+| SST     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
