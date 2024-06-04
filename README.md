@@ -19,8 +19,12 @@ Last update: Mon 3 June 6:30am: Land mask applied to bias corrected AGCD output.
 
 
 
-Hazard  GWL1.2  GWL1.5	(Notes)
+
 | Hazard | PI  | GWL1.2 | GWL1.5  | GWL2.0 | GWL3.0 | GWL4.0| (Notes) |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
 |  Ocean |     |        |         |        |        |       |         |
 | SST     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| MWH duration |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| MHW intensity|:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| surface pH     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| surface aragonite saturation state     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
