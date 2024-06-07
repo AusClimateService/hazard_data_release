@@ -44,7 +44,7 @@ Last update: Mon 3 June 6:30am:
 | **Tropical Cyclones**|     |        |         |        |        |       |         |
 | Cyclone frequency |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Cyclone Intensity |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| **Extratropical Storms**|     |        |         |        |        |       |         |
+| **Extratropical Storms (NESP portal)**|     |        |         |        |        |       |         |
 | Number of tracked surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Intensity of surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Riverine and Flash Flooding (NHP)**|     |        |         |        |        |       |         |
@@ -58,7 +58,7 @@ Last update: Mon 3 June 6:30am:
 | Aggregation of flood days |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | 1 in 100 AEP inundation |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Coastal Erosion**|     |        |         |        |        |       |         |
-|     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
+|     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Convective Storms**|     |        |         |        |        |       |         |
 |         |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
