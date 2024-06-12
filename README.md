@@ -11,9 +11,10 @@ The table below provides a summary of what data has been processed.
 The three dots (in order from first/top/left to last/bottom/right) represent:
 
 In terms of the colors:
-- :green_circle: The data is available in its final official form
-- :yellow_circle: The data exists for early / beta users to try
+- :green_circle: The data is available in its final official form 
+- :yellow_circle: The indice data exists for beta users to try
 - :white_circle: Not yet processed but we don't anticipate any problems/delays
+- :red_circle:  
 
 Last update: Mon 3 June 6:30am: 
 
@@ -22,7 +23,7 @@ Last update: Mon 3 June 6:30am:
 | Hazard | PI  | GWL1.2 | GWL1.5  | GWL2.0 | GWL3.0 | GWL4.0| (Notes) |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
 | **Ocean (OFAM)**|     |        |         |        |        |       |         |
-| SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | data stored on /g/data/ia39/ncra/ocean |
 | MWH duration |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
 | MHW intensity|:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
 | surface pH monthly climatology   |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
@@ -45,7 +46,7 @@ Last update: Mon 3 June 6:30am:
 | Cyclone frequency |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Cyclone Intensity |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Extratropical Storms (NESP portal)**|     |        |         |        |        |       |         |
-| Number of tracked surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Number of tracked surface low-pressure systems   |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
 | Intensity of surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Riverine and Flash Flooding (NHP)**|     |        |         |        |        |       |         |
 |Runoff (RX1 - median annual max 1-day runoff)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
