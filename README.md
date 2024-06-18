@@ -21,7 +21,7 @@ Last update: Mon 3 June 6:30am:
 
 
 | Hazard | PI  | GWL1.2 | GWL1.5  | GWL2.0 | GWL3.0 | GWL4.0| (Notes) |
-| ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
+| ---    | --- | :-:    |  :-:    | :-:    | :-:    | :-:   | :-:     |
 | **Ocean (OFAM)**|     |        |         |        |        |       |         |
 | SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | data stored on /g/data/ia39/ncra/ocean |
 | MWH duration |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
@@ -30,10 +30,10 @@ Last update: Mon 3 June 6:30am:
 | surface aragonite saturation state monthly climatology |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
 | **Heat**|     |        |         |        |        |       |         |
 | Daily maximum surface air temperature (tasmax)   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| TXx (hottest day   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| TX90p    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| EHF number    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-| EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| TXx (hottest day)   | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Days above the 90th percentile    | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| EHF number    | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| EHF duration  | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Fire**|     |        |         |        |        |       |         |
 | FFDI     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Extreme Prec.**|     |        |         |        |        |       |         |
