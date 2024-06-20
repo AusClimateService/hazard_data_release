@@ -39,16 +39,14 @@ Last update: Mon 3 June 6:30am:
 | Fire climate classes     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | **Extreme Prec.**|     |        |         |        |        |       |         |
 |Average Daily Rainfall    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-|RX1h (heaviest hourly total per year)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-|RX1D (heaviest daily total per year)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-|RX5D (heaviest 5 day total per year)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
-|Number of days above specified thresholds  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+|RX1h (heaviest hourly total per year)     | | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | | data stored on /g/data/ia39/ncra/extratropical_storms/ |
+|RX1D (heaviest daily total per year)  || :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |  data stored on /g/data/ia39/ncra/extratropical_storms/ |
+|RX5D (heaviest 5 day total per year)  | | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | |  data stored on /g/data/ia39/ncra/extratropical_storms/ |
 | **Tropical Cyclones**|     |        |         |        |        |       |         |
 | Cyclone frequency |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Cyclone Intensity |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Extratropical Storms (NESP portal)**|     |        |         |        |        |       |         |
-| Number of tracked surface low-pressure systems   |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| Intensity of surface low-pressure systems   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Number of tracked surface low-pressure systems   | | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | data stored on /g/data/ia39/ncra/extratropical_storms/ |
 | **Riverine and Flash Flooding (NHP)**|     |        |         |        |        |       |         |
 |Runoff (RX1 - median annual max 1-day runoff)  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Drought**|     |        |         |        |        |       |         |
