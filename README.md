@@ -24,10 +24,10 @@ Last update: Mon 3 June 6:30am:
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
 | **Ocean (OFAM)**|     |        |         |        |        |       |         |
 | SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | data stored on /g/data/ia39/ncra/ocean |
-| MWH duration |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
-| MHW intensity|:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: |  |
-| surface pH monthly climatology   |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
-| surface aragonite saturation state monthly climatology |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |
+| MWH duration |:white_circle: | :yellow_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
+| MHW intensity|:white_circle: | :yellow_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
+| surface pH monthly climatology   |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
+| surface aragonite saturation state monthly climatology |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |/g/data/ia39/ncra/ocean |
 | **Heat**|     |        |         |        |        |       |         |
 | Daily maximum surface air temperature (tasmax)   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | TXx (hottest day   |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
@@ -36,6 +36,7 @@ Last update: Mon 3 June 6:30am:
 | EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Fire**|     |        |         |        |        |       |         | 
 | FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire |
+
 | Fire climate classes     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | Fire climate classes shifts     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | **Extreme Prec.**|     |        |         |        |        |       |         |
