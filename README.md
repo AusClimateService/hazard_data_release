@@ -35,9 +35,9 @@ Last update: Mon 3 June 6:30am:
 | EHF number    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Fire**|     |        |         |        |        |       |         | 
-| FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire |
-| Fire climate classes     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
-| Fire climate classes shifts     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
+| FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire figures available for percerntiles in /g/data/ia39/ncra/bushfire/ffdi/figures|
+| Fire climate classes     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire and images available in /g/data/ia39/ncra/bushfire/figures |
+| Fire climate classes shifts     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire and images available in /g/data/ia39/ncra/bushfire/figures|
 | **Extreme Prec.**|     |        |         |        |        |       |         |
 |Average Daily Rainfall    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 |RX1h (heaviest hourly total per year)     | | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | | data stored on /g/data/ia39/ncra/extratropical_storms/ |
