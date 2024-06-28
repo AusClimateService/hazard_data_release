@@ -24,8 +24,8 @@ Last update: Mon 3 June 6:30am:
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
 | **Ocean (OFAM)**|     |        |         |        |        |       |         |
 | SST monthly climatology     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | data stored on /g/data/ia39/ncra/ocean |
-| MWH duration |:white_circle: | :yellow_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
-| MHW intensity|:white_circle: | :yellow_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
+| MWH duration |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean/mhw  |
+| MHW intensity|:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean/mhw  |
 | surface pH monthly climatology   |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | /g/data/ia39/ncra/ocean  |
 | surface aragonite saturation state monthly climatology |:green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |/g/data/ia39/ncra/ocean |
 | **Heat**|     |        |         |        |        |       |         |
@@ -35,10 +35,11 @@ Last update: Mon 3 June 6:30am:
 | EHF number    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Fire**|     |        |         |        |        |       |         | 
-| FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire<br>and<br>/g/data/ia39/ncra/bushfire/ffdi |
+| FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire |
+| FFDI thresholds |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data and figures available for percerntiles in /g/data/ia39/ncra/bushfire/ffdi|
+| Fire climate classes     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire and images available in /g/data/ia39/ncra/bushfire/figures |
+| Fire climate classes shifts     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire and images available in /g/data/ia39/ncra/bushfire/figures|
 
-| Fire climate classes     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
-| Fire climate classes shifts     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | **Extreme Prec.**|     |        |         |        |        |       |         |
 |Average Daily Rainfall    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 |RX1h (heaviest hourly total per year)     | | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | | data stored on /g/data/ia39/ncra/extratropical_storms/ |
