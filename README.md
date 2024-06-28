@@ -36,7 +36,6 @@ Last update: Mon 3 June 6:30am:
 | EHF duration  |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Fire**|     |        |         |        |        |       |         | 
 | FFDI     |:white_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :white_circle: | /g/data/ia39/ncra/fire |
-
 | Fire climate classes     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | Fire climate classes shifts     |:white_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :yellow_circle: | :white_circle: | data stored on /g/data/ia39/ncra/bushfire |
 | **Extreme Prec.**|     |        |         |        |        |       |         |
